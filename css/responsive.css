@@ -8,10 +8,17 @@ nav .nav_ct .btn_mail a:hover{background: #fff;color: #333}
 nav .nav_ct .btn_try a:hover{background: transparent;color: #fa5a00}
 
 .btn:hover::before{right: -25px}
-.btn a:hover{background: #ffd200;color: #000}
-.btn a:hover::after,
-.btn a:hover::before{width: calc(100% + 2px);height: calc(100% + 2px)}
-#btn_top:hover{opacity: 0.7;}
+.btn a:hover{background: none;color: #fff;}
+.box06 .btn a:hover{background: none;color: #0095fb;}
+
+#btn_top:hover,
+.slick-arrow:hover,
+.box01 .box01_link p a:hover{opacity: 0.7;}
+.box02 ul li:hover{opacity: 1;}
+
+
+.box01 .box01_btn p a:hover{background: #fff;color: #3c3c3c}
+.box01 .box01_btn .btn_re a:hover{background: none;color: #fff;}
 
 }
 
