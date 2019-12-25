@@ -13,13 +13,17 @@ nav .nav_ct .btn_try a:hover{background: transparent;color: #fa5a00}
 
 #btn_top:hover,
 .slick-arrow:hover,
-.box01 .box01_link p a:hover{opacity: 0.7;}
+.box01 .box01_link p a:hover,
+footer .foot_info ul li:hover{opacity: 0.7;}
 .box02 ul li:hover{opacity: 1;}
 
 
 .box01 .box01_btn p a:hover{background: #fff;color: #3c3c3c}
 .box01 .box01_btn .btn_re a:hover{background: none;color: #fff;}
 
+.box10 ul li .box_price .link a:hover{background: #0095fb;color: #fff;}
+.box10 ul li .box_price:hover{border:2px solid #2d3345;box-shadow: 0 3px 30px 0 rgba(0,0,0,0.15)}
+.box11 .box11_ct .box11_form .link a:hover{background: #fff;color: #2d3345;}
 }
 
 @media screen and (max-width: 1200px) {
